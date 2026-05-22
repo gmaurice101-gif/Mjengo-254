@@ -1,0 +1,6 @@
+{
+  "name": "Mjengo 254",
+  "description": "Comprehensive construction site project management software featuring multi-site budgeting, real-time logistics tracking, foreman portal with roll call and daily logs, and printable contractor reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
